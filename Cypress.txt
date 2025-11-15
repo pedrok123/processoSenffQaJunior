@@ -1,0 +1,3 @@
+Executar - npx cypress open 
+
+instalar - npm i cypress
